@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-# version
-测试推送到 git
-=======
-<<<<<<< HEAD
-# version
-测试推送到 git
-=======
-# my-blog
 
-> A Vue.js project
-
-## Build Setup
 
 ``` bash
 # install dependencies
@@ -26,6 +14,4 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
->>>>>>> test
->>>>>>> test
+
